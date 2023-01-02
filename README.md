@@ -19,7 +19,7 @@
 </p>
 
 <br/>
-<h1 align='center'>Socials 🌐</h1> 
+<h1 align='center'>Let's Connect 🌐</h1> 
 <p align='center'>
    <a href="https://www.linkedin.com/in/ronak-p/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/rjpatel7991"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
