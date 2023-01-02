@@ -1,8 +1,16 @@
-# 💫 About Me:
-About MySelf : <br><br>Hello World 🌎 , I am Ronak Patel. 🤓   <br>I describe myself as a curious 💡 problem solver 🧐.<br>Always developing my problem-solving skills by learning all the necessary tools and techniques. <br><br>Educational Background 📚:<br><br>👉 Master in Applied Computing - Concordia University Canada(2022 - 2024)<br>👉 Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)<br>👉 Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016) <br><br>
+<div align="center">
+   <h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">, I'm <a href="https://www.patelrj.com">Ronak 🤓</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">. </h1>
+</div>
+
+<img align="right" height="" width="" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210271550-60ea0310-c20b-416b-a2fa-780c4a074c2b.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+describe+myself+as+a+curious+problem+solver!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+<h3>I describe myself as a curious 💡 problem solver 🧐.<br>Always developing my problem-solving skills by learning all the necessary tools and techniques. <br><br>Educational Background 📚:<br><br>👉 Master in Applied Computing - Concordia University Canada (2022 - 2024)<br>👉 Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)<br>👉 Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016) <br><br>
 
 
-## 🌐 Socials:
+ ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005741973880) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronak-p) 
 
 # 💻 Tech Stack:
@@ -13,9 +21,20 @@ About MySelf : <br><br>Hello World 🌎 , I am Ronak Patel. 🤓   <br>I describ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakjpatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" width: 100%/>
+
+</p>
+
+<h1 align='center'>⚡️<i>Follow Passion & Stay on top!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://user-images.githubusercontent.com/40088060/210274327-dedf0140-e500-4350-8fba-325ffb51583a.gif" alt="Surfer Image" width=auto/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ronakjpatel&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
+Spinnign world gif Hazem Malkawi
+ [https://dribbble.com/shots/2972130-Hello-World](https://dribbble.com/shots/2858785-Spinning-Earth)
