@@ -48,7 +48,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ronakjpatel&icon=0&color=3)](https://visitcount.itsvg.in)
-
-
-Spinnign world gif Hazem Malkawi
- [https://dribbble.com/shots/2972130-Hello-World](https://dribbble.com/shots/2858785-Spinning-Earth)
