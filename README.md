@@ -1,5 +1,5 @@
 # 💫 About Me:
-About MySelf : <br><br>Hello World 🌎 , I am Ronak Patel. 🤓   <br>I describe myself as a curious 💡 problem solver 🧐.<br>Always developing my problem-solving skills by learning all the necessary tools and techniques. <br><br>Educational Background 📚:<br><br>👉 Master in Applied Computing - Concordia University Canada(2022 - 2024)<br>👉 Bachelor of Computer Science- Swinburne University of Technology - Australia (2017 - 2020)<br>👉 Diploma in Computer Engineering - Gujarat Technological University - India (2013 - 2016) <br><br>
+About MySelf : <br><br>Hello World 🌎 , I am Ronak Patel. 🤓   <br>I describe myself as a curious 💡 problem solver 🧐.<br>Always developing my problem-solving skills by learning all the necessary tools and techniques. <br><br>Educational Background 📚:<br><br>👉 Master in Applied Computing - Concordia University Canada(2022 - 2024)<br>👉 Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)<br>👉 Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016) <br><br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ About MySelf : <br><br>Hello World 🌎 , I am Ronak Patel. 🤓   <br>I describ
 ---
 [![](https://visitcount.itsvg.in/api?id=ronakjpatel&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
