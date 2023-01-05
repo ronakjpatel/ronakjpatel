@@ -25,6 +25,8 @@
 <a href="https://twitter.com/rjpatel7991"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100005741973880"><img height="30" src="https://user-images.githubusercontent.com/40088060/210281666-e496213b-7ef7-4d7b-b2e2-01f73d8ba033.png"></a>&nbsp;&nbsp;
 <a href="https://www.patelrj.com/"><img height="30" src="https://user-images.githubusercontent.com/40088060/210282409-45311acc-b397-4c5a-bdde-52fd2f27fb90.png"></a>&nbsp;&nbsp;
+<a href=" https://medium.com/@rjpatel7991"><img height="30" src="https://user-images.githubusercontent.com/40088060/210674307-c9a36393-8cc3-4f46-96cd-6fb4d1a29b0e.png"></a>&nbsp;&nbsp;
+  
  </p>
 <br/>
 <h1 align='center'>Tech Stack 💻</h1> 
