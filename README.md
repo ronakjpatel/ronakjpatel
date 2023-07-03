@@ -36,11 +36,6 @@
 
 <br/>
 
-<h1 align='center'>GitHub Stats 📊</h1> 
-
-![](https://github-readme-stats.vercel.app/api?username=ronakjpatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ronakjpatel&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakjpatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h1 align='center'>⚡️<i>Follow Passion & Stay on top!</i>⚡️</h1>
 
