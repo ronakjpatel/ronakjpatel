@@ -13,9 +13,9 @@
 <h1 align='center'>Educational Background 📚</h1>
 
 <p align="center" style="font-size:20px;"> 
-<div align="center" ><img height="18px" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210280269-de141076-f4fe-4663-9428-d985e1baba12.gif" /> Master in Applied Computing - Concordia University Canada (2022 - 2024)</div>
-<div align="center" ><img height="18px" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210280269-de141076-f4fe-4663-9428-d985e1baba12.gif" />Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)</div>
-<div align="center" ><img height="18px" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210280269-de141076-f4fe-4663-9428-d985e1baba12.gif" />Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016)</div>
+<div align="center" ><img height="18px"  /> Master in Applied Computing - Concordia University Canada (2022 - 2024)</div>
+<div align="center" ><img height="18px"  />Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)</div>
+<div align="center" ><img height="18px" />Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016)</div>
 </p>
 
 
