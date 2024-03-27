@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+describe+myself+as+a+curious+PROBLEM+SOLVER+🧐!;DATA+SCIENCE+is+my+true+❤️!;Always+in+🎯+pursuit+of+LEARNING+🔥+new+tools+&+techniques!&font=Sans%20Code&center=true&width=1080&height=100&duration=2600&pause=700&color=D66B18&size=35">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+describe+myself+as+a+curious+PROBLEM+SOLVER+🧐!;Always+in+🎯+pursuit+of+LEARNING+🔥+new+tools+&+techniques!&font=Sans%20Code&center=true&width=1080&height=100&duration=2600&pause=700&color=D66B18&size=35">
 </p>
 
 <p align="center">
@@ -17,6 +17,12 @@
 <div align="center" ><img height="18px" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210280269-de141076-f4fe-4663-9428-d985e1baba12.gif" />Bachelor of Computer Science- Swinburne University of Technology Australia (2017 - 2020)</div>
 <div align="center" ><img height="18px" alt="GIF" src="https://user-images.githubusercontent.com/40088060/210280269-de141076-f4fe-4663-9428-d985e1baba12.gif" />Diploma in Computer Engineering - Gujarat Technological University India (2013 - 2016)</div>
 </p>
+
+
+
+
+
+
 
 <br/>
 <h1 align='center'>Let's Connect 🌐</h1> 
