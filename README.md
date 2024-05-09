@@ -43,6 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakjpatel&" alt="ronakjpatel" /></p>
 
+![snake gif](https://github.com/ronakjpatel/ronakjpatel/blob/output/github-contribution-grid-snake.svg) 
+
 <h1 align='center'>⚡️<i>Follow Passion & Stay on top!</i>⚡️</h1>
 
 <p align="center">
